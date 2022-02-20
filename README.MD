@@ -12,4 +12,4 @@
 
 # Collaborators
 
-[![Contributors](https://contrib.rocks/image?repo=responsive-portfolio)](https://github.com/EddieHubCommunity/LinkFree/graphs/contributors)
+![Repo Contributors](https://contrib.rocks/image?repo=nitin30kumar/responsive-portfolio-using-materialUI)
