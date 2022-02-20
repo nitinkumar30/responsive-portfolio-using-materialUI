@@ -1,6 +1,6 @@
 # Responsive portfolio
 
-> Responsive portfolio made using Material UI. 
+> Responsive portfolio made using [Material UI](https://material.io/develop/web/getting-started). 
 > My first project on Material UI. I'm a beginner and [@Sonoo](https://github.com/Sonooo) is helping in learning and completing this small project.
 
 ## 😂 Here is a random joke that'll make you laugh!
